@@ -12,6 +12,7 @@
     "require": {
         "php": "^8.4.0",
         "laravel/framework": "^12.44.0",
+        "laravolt/laravolt": "dev-main",
         "nunomaduro/essentials": "^1.0.1"
     },
     "require-dev": {

@@ -1,26 +1,4 @@
-<p>
-    <a href="https://github.com/qisthidev/laravolt-starter-kit/actions"><img src="https://github.com/qisthidev/laravolt-starter-kit/actions/workflows/tests.yml/badge.svg" alt="Build Status"></a>
-    <a href="https://packagist.org/packages/qisthidev/laravolt-starter-kit"><img src="https://img.shields.io/packagist/dt/qisthidev/laravolt-starter-kit" alt="Total Downloads"></a>
-    <a href="https://packagist.org/packages/qisthidev/laravolt-starter-kit"><img src="https://img.shields.io/packagist/v/qisthidev/laravolt-starter-kit" alt="Latest Stable Version"></a>
-    <a href="https://packagist.org/packages/qisthidev/laravolt-starter-kit"><img src="https://img.shields.io/packagist/l/qisthidev/laravolt-starter-kit" alt="License"></a>
-</p>
-
-# Laravolt Starter Kit
-
-Personal Laravel starter kit with strict type-safety and code quality tools for [Laravolt](https://github.com/laravolt/laravolt) in Agentic era.
-
-## Why This Starter Kit?
-
-Modern PHP has evolved into a mature, type-safe language, yet many Laravel projects still operate with loose conventions and optional typing. This starter kit changes that paradigm by enforcing:
-
-- **100% Type Coverage**: Every method, property, and parameter is explicitly typed
-- **Zero Tolerance for Code Smells**: Rector and PHPStan at maximum strictness catch issues before they become bugs
-- **Immutable-First Architecture**: Data structures favor immutability to prevent unexpected mutations
-- **Fail-Fast Philosophy**: Errors are caught at compile-time, not runtime
-- **Automated Code Quality**: Pre-configured tools ensure consistent, pristine code across your entire team
-- **Just Better Laravel Defaults**: Thanks to **[Essentials](https://github.com/nunomaduro/essentials)** / strict models, auto eager loading, immutable dates, and more...
-
-This isn't just another Laravel boilerplate—it's a statement that PHP applications can and should be built with the same rigor as strongly-typed languages like Rust or TypeScript.
+# Ultra-high Quality Laravolt Application
 
 ## Getting Started
 
@@ -86,7 +64,3 @@ You should see 100% test coverage and all quality checks passing.
 ### Maintenance
 
 - `composer update:requirements` - Updates all PHP and NPM dependencies to latest versions
-
----
-
-Based on [qisthidev/laravolt-starter-kit](https://github.com/qisthidev/laravolt-starter-kit).

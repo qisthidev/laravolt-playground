@@ -22,4 +22,8 @@ yarn-error.log
 /.nova
 /.vscode
 /.zed
-/tmp
+/tmp/public/laravolt
+/build/coverage
+/pestphp-coverage-result.xml
+/pestphp-execution-result.xml
+/public/laravolt
