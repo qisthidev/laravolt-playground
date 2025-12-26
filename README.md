@@ -1,6 +1,6 @@
-[![Quality Gate Status](https://sonar.qisthi.dev/api/project_badges/measure?project=qdev_ubolt&metric=alert_status&token=sqp_68e5be656d01c1202a07fcea90c92e96b0503ba0)](https://sonar.qisthi.dev/dashboard?id=qdev_ubolt)
+[![Quality Gate Status](https://sonar.qisthi.dev/api/project_badges/measure?project=laravolt_playground&metric=alert_status&token=squ_5903963247b8f5cc3af87aab0272f852c9a0be86)](https://sonar.qisthi.dev/dashboard?id=qdev_ubolt)
 [![Build Status](https://github.com/qisthidev/laravolt-playground/actions/workflows/tests.yml/badge.svg)](https://github.com/qisthidev/laravolt-playground/actions)
-[![Coverage](https://sonar.qisthi.dev/api/project_badges/measure?project=qdev_ubolt&metric=coverage&token=sqp_68e5be656d01c1202a07fcea90c92e96b0503ba0)](https://sonar.qisthi.dev/dashboard?id=qdev_ubolt)
+[![Coverage](https://sonar.qisthi.dev/api/project_badges/measure?project=laravolt_playground&metric=coverage&token=squ_5903963247b8f5cc3af87aab0272f852c9a0be86)](https://sonar.qisthi.dev/dashboard?id=qdev_ubolt)
 
 # Ultra-high Quality Laravolt Application
 
