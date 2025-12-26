@@ -1,13 +1,17 @@
+[![Quality Gate Status](https://sonar.qisthi.dev/api/project_badges/measure?project=qdev_ubolt&metric=alert_status&token=sqp_68e5be656d01c1202a07fcea90c92e96b0503ba0)](https://sonar.qisthi.dev/dashboard?id=qdev_ubolt)
+[![Build Status](https://github.com/qisthidev/laravolt-playground/actions/workflows/tests.yml/badge.svg)](https://github.com/qisthidev/laravolt-playground/actions)
+[![Coverage](https://sonar.qisthi.dev/api/project_badges/measure?project=qdev_ubolt&metric=coverage&token=sqp_68e5be656d01c1202a07fcea90c92e96b0503ba0)](https://sonar.qisthi.dev/dashboard?id=qdev_ubolt)
+
 # Ultra-high Quality Laravolt Application
 
 ## Getting Started
 
 > **Requires [PHP 8.4+](https://php.net/releases/)**.
 
-Create your type-safe Laravel application using [Composer](https://getcomposer.org):
+Clone the repository using:
 
 ```bash
-composer create-project qisthidev/laravolt-starter-kit --prefer-dist example-app
+git clone https://github.com/qisthidev/laravolt-starter-kit laravolt-playground
 ```
 
 ### Initial Setup
@@ -15,7 +19,7 @@ composer create-project qisthidev/laravolt-starter-kit --prefer-dist example-app
 Navigate to your project and complete the setup:
 
 ```bash
-cd example-app
+cd laravolt-playground
 
 # Setup project
 composer setup
