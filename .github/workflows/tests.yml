@@ -118,6 +118,7 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: coverage-reports
+          path: coverage/
 
       - name: Verify Config
         run: |
