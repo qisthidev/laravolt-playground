@@ -78,6 +78,9 @@ jobs:
           restore-keys: ${{ runner.os }}-phpstan-
       - run: mkdir -p /tmp/phpstan
 
+      - name: Laravolt Things
+        run: php artisan laravolt:link
+
       - name: Tests
         run: composer test
 
